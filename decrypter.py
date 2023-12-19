@@ -1,4 +1,4 @@
-mport os
+import os
 import pyaes
 
 # abrir o arquivo criptografado
